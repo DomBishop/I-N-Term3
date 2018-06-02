@@ -34,7 +34,7 @@
 
 The research pack is composed of the data we collected to create and develop our game. It details the process of our development and how that process caused our concept to change into something more accessible to an audience. We specifically focused on design orientated games and games that allowed creative ideas in how they were played. This allowed us to let our concept of a creative game about being creative to come alive.
 
-<img src="https://i.imgur.com/yGiQ45K.png" width="300">
+<img src="https://i.imgur.com/yGiQ45K.png">
 
 ## [Boardgame Production](https://drive.google.com/drive/folders/1uguvQgUp174xod0UFSq02qg2Zh_-GV6y?usp=sharing)
 
