@@ -8,17 +8,16 @@
 - [Presentations](#formative-link)
 - [Blogs](#blogs)
 - [Research Pack](#research-pack)
-- [Meta Narrative](#meta-narrative)
-- [Twine Production](#twine-production)
-- [Branding](#branding)
-- [IRL Content](#irl-content)
-- [Other and Unused Content](#other-and-unused-content)
+- [Boardgame Production](#boardgame-production)
+- [User Manuals](#user-manuals)
+- [Phaser Production](#phaser-production)
+- [Final Game Code](#final-game-code)
 
 
 
 ## [Formative Link](https://drive.google.com/open?id=19IfPvb-LPOdwrjAaCOnlHkbHE7v8pZ5FZW3ZMMakXxw)
 
-## [Summative Link](https://drive.google.com/open?id=1EFtRTpbFCiyez8EGZthJpW2OJUIwZHKu7dOhOXx73Ys)
+## [Summative Link](https://docs.google.com/presentation/d/1fWIoRk3HG-4Df92BLTQKdy1PPOKL2YEXJVpg--n79WU/edit?usp=sharing)
 
 
 ## Blogs
