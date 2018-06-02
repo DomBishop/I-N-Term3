@@ -36,9 +36,9 @@ The research pack is composed of the data we collected to create and develop our
 
 ## User Manuals
 
-- [Prototype v1 Manual](https://drive.google.com/file/d/1N3AltyInELrP6nsAI-3GDnVvXmG4x9sX/view?usp=sharing)
+- [Prototype v1 (initial idea) Manual](https://drive.google.com/file/d/1N3AltyInELrP6nsAI-3GDnVvXmG4x9sX/view?usp=sharing)
 
-- [Prototype v2 Manual](https://drive.google.com/file/d/1sI2xT9iBEhbQd659quYU0bSYiuNsdRT6/view?usp=sharing)
+- [Prototype v2 (final product) Manual](https://drive.google.com/file/d/1sI2xT9iBEhbQd659quYU0bSYiuNsdRT6/view?usp=sharing)
 
 ## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
 
