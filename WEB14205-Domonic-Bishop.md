@@ -16,23 +16,23 @@
 
 
 
-## [Formative Link](https://drive.google.com/open?id=1w4gcM-3ps7OzZn6ZouOo0hQ5t6Gdfs8e)
+## [Formative Link](https://drive.google.com/open?id=19IfPvb-LPOdwrjAaCOnlHkbHE7v8pZ5FZW3ZMMakXxw)
 
 ## [Summative Link](https://drive.google.com/open?id=1EFtRTpbFCiyez8EGZthJpW2OJUIwZHKu7dOhOXx73Ys)
 
 
 ## Blogs
-1. [What are some of the fundamental elements that are required to develop a interactive narrative and why?](https://medium.com/@domonic_bishop/what-are-some-of-the-fundamental-elements-that-are-required-to-develop-a-interactive-narrative-and-b1613b970d4f)
-2. [Research, evidence and explain case studies of how storytelling has been instrumental in the creation of communities and cultures in modern times](https://medium.com/@domonic_bishop/research-evidence-and-explain-case-studies-of-how-storytelling-has-been-instrumental-in-the-d45c5f94cd35)
+1. [What is your favourite board game and why?](https://medium.com/@domonic_bishop/what-are-some-of-the-fundamental-elements-that-are-required-to-develop-a-interactive-narrative-and-b1613b970d4f)
+2. [When creating online content for children, what are some of the ethical considerations you need to take?](https://medium.com/@domonic_bishop/research-evidence-and-explain-case-studies-of-how-storytelling-has-been-instrumental-in-the-d45c5f94cd35)
 3. [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@domonic_bishop/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-9a2427f0ac59)
-4. [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
-5. [Reflect and evidence your contribution to this group project so far. (Why, what, where, when & how)](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
-6. [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
-7. [Reflective Report](https://medium.com/@domonic_bishop/interactive-narratives-reflective-report-3fb759397d2f)
+4. [Reflect and evidence your contribution to this group project so far.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
+5. [Evidence and analyse how games have developed through time](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
+6. [500 words reflective report on your (Why, what, where, when & how) contribution to this project](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
+7. [500 words, dissect and discuss a core game mechanics behind an online game of their choice.](https://medium.com/@domonic_bishop/interactive-narratives-reflective-report-3fb759397d2f)
 
-## [Research Pack](https://drive.google.com/open?id=1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU)
+## [Research Pack](https://drive.google.com/open?id=1xQiWhsqRuTuW6EQCn_P7gAJF-IgFCmxORhsWwZUpTiI)
 
-The research pack shows what was inspiring us along the way. We explain how we tried to incorporate different elements into our project, such as how we came up with the idea of multiple endings. And what writers and stories inspired us to write the narrative that we did. Specifically, it references sources of works that held a lot of the same elements we were trying to implement at some stage of the project.
+The research pack is composed of the data we collected to create and develop our game. It details the process of our development and how that process caused our concept to change into something more accessible to an audience. We specifically focused on design orientated games and games that allowed creative ideas in how they were played. This allowed us to let our concept of a creative game about being creative to come alive.
 
 ## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
 
