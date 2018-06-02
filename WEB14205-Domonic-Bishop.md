@@ -34,6 +34,12 @@
 
 The research pack is composed of the data we collected to create and develop our game. It details the process of our development and how that process caused our concept to change into something more accessible to an audience. We specifically focused on design orientated games and games that allowed creative ideas in how they were played. This allowed us to let our concept of a creative game about being creative to come alive.
 
+## User Manuals
+
+- [Prototype v1 Manual](https://drive.google.com/file/d/1N3AltyInELrP6nsAI-3GDnVvXmG4x9sX/view?usp=sharing)
+
+- [Prototype v2 Manual](https://drive.google.com/file/d/1sI2xT9iBEhbQd659quYU0bSYiuNsdRT6/view?usp=sharing)
+
 ## [Meta Narrative](https://drive.google.com/open?id=16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw)
 
 The meta-narrative is similar to a Dungeons and Dragons scenario. The narrative serves as a baseline for the user, and then the user will contribute to the story through tweets giving hints to our characters. These tweets will then be used to craft the next chapter of the story. If the story were a timeline, it would simply alternate between the online story and IRL experience until we concluded it. This also brings to light the fact that our story ends when we or the users want it to. Our story is built to be moulded by others, that way we can fully utilise user interaction online and offline.
