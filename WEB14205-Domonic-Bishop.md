@@ -21,13 +21,13 @@
 
 
 ## Blogs
-1. [What is your favourite board game and why?](https://medium.com/@domonic_bishop/what-are-some-of-the-fundamental-elements-that-are-required-to-develop-a-interactive-narrative-and-b1613b970d4f)
-2. [When creating online content for children, what are some of the ethical considerations you need to take?](https://medium.com/@domonic_bishop/research-evidence-and-explain-case-studies-of-how-storytelling-has-been-instrumental-in-the-d45c5f94cd35)
-3. [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@domonic_bishop/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-9a2427f0ac59)
-4. [Reflect and evidence your contribution to this group project so far.](https://medium.com/@domonic_bishop/pair-up-with-another-person-not-your-team-mate-and-give-each-other-feedback-on-your-peer-learning-51f90da7ade3)
-5. [Evidence and analyse how games have developed through time](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-81f252c08386)
-6. [500 words reflective report on your (Why, what, where, when & how) contribution to this project](https://medium.com/@domonic_bishop/if-you-could-be-the-character-in-your-own-fictional-story-69245f66cdef)
-7. [500 words, dissect and discuss a core game mechanics behind an online game of their choice.](https://medium.com/@domonic_bishop/interactive-narratives-reflective-report-3fb759397d2f)
+1. [What is your favourite board game and why?](https://medium.com/@domonic_bishop/why-pokemon-master-trainer-is-amazing-d08f2e3e5c4c)
+2. [When creating online content for children, what are some of the ethical considerations you need to take?](https://medium.com/@domonic_bishop/when-creating-online-content-for-children-what-are-some-of-the-ethical-considerations-you-need-to-16dac4670786)
+3. [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](https://medium.com/@domonic_bishop/what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-5acbc4da357b)
+4. [Reflect and evidence your contribution to this group project so far.](https://medium.com/@domonic_bishop/reflect-and-evidence-your-contribution-to-this-group-project-so-far-why-what-where-when-how-4786d80508c0)
+5. [Evidence and analyse how games have developed through time](https://medium.com/@domonic_bishop/evidence-and-analyse-how-games-have-developed-through-time-14cb1ca48d6a)
+6. [500 words reflective report on your (Why, what, where, when & how) contribution to this project](https://medium.com/@domonic_bishop/reflective-report-i-n-term-3-f167e912db6b)
+7. [500 words, dissect and discuss a core game mechanics behind an online game of their choice.](https://medium.com/@domonic_bishop/game-report-zelda-breath-of-the-wild-7a38d2d29ad0)
 
 ## [Research Pack](https://drive.google.com/open?id=1xQiWhsqRuTuW6EQCn_P7gAJF-IgFCmxORhsWwZUpTiI)
 
