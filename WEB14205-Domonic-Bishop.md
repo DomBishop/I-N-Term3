@@ -53,7 +53,7 @@ It was inspired by the double diamond process that I was taught during my time d
 
 The game idea we had for Phaser is a game where a boss chases his creative employe (hipster) when it's past a deadline. The player needs to control the creative and collect lightbulbs which represent creative ideas and build up as big a score as he can. When the player is caught by the boss it's game over, when that happens, hit command+R to restart the game.
 
-This is the initial code used for the Phaser production, it's from Phaser 2 and it was used due to a lack of technical documentation that we used 2 instead of Phaser 3. The initial code had the boss chasing the advertising creative at a steady pace and jumping concistantly in terms of time and hight. The code was used as a platform for me to learn Phaser while still learning to produce a final game:
+This is the initial code used for the Phaser production, it's from Phaser 2 and it was used due to a lack of technical documentation that we used 2 instead of Phaser 3. The initial code had the boss chasing the advertising creative at a steady pace and jumping consistently in terms of time and height. The code was used as a platform for me to learn Phaser while still learning to produce a final game:
 
 ~~~~
 <!doctype html>
