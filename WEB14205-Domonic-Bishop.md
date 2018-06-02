@@ -52,6 +52,8 @@ It was inspired by the double diamond process that I was taught during my time d
 
 ## [Phaser Production](https://dombishop.github.io/I-N-Game/)
 
+The game idea we had for Phaser is a game where a boss chases his creative employe (hipster) when it's past a deadline. The player needs to control the creative and collect lightbulbs which represent creative ideas and build up as big a score as he can. When the player is caught by the boss it's game over, when that happens, hit command+R to restart the game.
+
 This is the initial code used for the Phaser production, it's from Phaser 2 and it was used due to a lack of technical documentation that we used 2 instead of Phaser 3. The initial code had the boss chasing the advertising creative at a steady pace and jumping concistantly in terms of time and hight. The code was used as a platform for me to learn Phaser while still learning to produce a final game:
 
 ~~~~
@@ -331,11 +333,13 @@ function update() {
 </html>
 ~~~~
 
-## [Final Code]
+## Final Game Code
 
 I made adjustments to the code so that I there where elements of randomness to keep the player guessing. When the player crosses the boss, who now spawns randomly, the boss can now slightly change his speed. His jumps are also now randomised so as to keep the player guessing and more engaged in the game.
 
 I also made changes to how the player character could move. Initially, the jump was more than enough to cover the office supply obstacles, and I felt this made the game too easy for the player. So I made the jump have a lower peak, requiring the players jumps to be more skilful to survive.
+
+The light bulbs also now spawn randomly on the map and reset when they've all been collected. This is so the game is more interesting and can also last longer for the player.
 
 ~~~~
 <!doctype html>
